@@ -1,4 +1,5 @@
-[![FearlessLugia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FearlessLugia)](https://github.com/FearlessLugia/github-readme-stats)
+![FearlessLugia's GitHub stats](https://github-readme-stats.vercel.app/api?username=FearlessLugia)
+![Top Langs](https://github-readme-stats-spamegg1.vercel.app/api/top-langs/?username=FearlessLugia&count_private=true&layout=compact)
 
 <!---
 - 👋 Hi, I’m @FearlessLugia
