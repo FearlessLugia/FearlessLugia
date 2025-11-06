@@ -1,6 +1,6 @@
 # Hello, I’m Kiiro 👋
 
-I'm a Full-Stack Development Engineer based in Toronto 🇨🇦.
+I'm a Software Engineer based in Toronto 🇨🇦.
 
 ![Kiiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=fearlesslugia&hide=stars,contribs&theme=aura)
 
